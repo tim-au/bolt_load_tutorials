@@ -1,0 +1,5 @@
+[deps]
+Mechanical = "b6165d09-d606-4e15-90e2-256b7a45a1cf"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
